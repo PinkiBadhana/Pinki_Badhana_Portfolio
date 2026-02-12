@@ -6,9 +6,8 @@ The portfolio represents my journey as a B.Tech CSE student and aspiring Softwar
 
 ---
 
-## 🚀 Live Preview
-
-(If hosted, add your live link here)
+🔗 **Live Website:**  
+https://pinkibadhana.github.io/Pinki_Badhana_Portfolio/
 
 ---
 
